@@ -8,7 +8,7 @@
 </center>
 
 ## Tech Stack Used 
-* Java 15
+* Java 
 * Spring Boot
 * Spring Security (JWT Based Authentication and Authorization)
 * Spring Data JPA/Hibernate
